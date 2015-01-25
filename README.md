@@ -1,2 +1,2 @@
 # datasciencecoursera
-data scientist's tollbox - cource project
+data scientist's toolbox - course project
